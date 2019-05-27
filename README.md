@@ -14,6 +14,11 @@ This project mainly focusing Women Safety.
 
 with single tap, messages are sent continously even when app runs in background. it can send concurrent update when location changes over 100 meters. it will send messages to mobile address from call log over past 2 days. Recievers can locate them using coordinates.
 
+## Screenshots
+
+<img src="screenshots/1.jpg" height="300em" /> <img src="screenshots/2.jpg" height="300em" />
+
+
 ## Flutter Create
 
 [Flutter Create](https://flutter.dev/create) is a contest that challenges you to build something interesting, inspiring, and beautiful with Flutter using 5KB or less of Dart code.Entries will be judged by a panel of Flutter experts against the following four criteria:
@@ -21,11 +26,6 @@ with single tap, messages are sent continously even when app runs in background.
 * Code quality
 * Novelty of idea
 * Overall execution 
-
-## Screenshots
-
-<img src="screenshots/1.jpg" height="300em" /> <img src="screenshots/2.jpg" height="300em" />
-
 
 ## Certificate
 
@@ -58,7 +58,7 @@ SOFTWARE.
 
 ### Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/iamprakash13/locate.svg?style=social&label=Star)](https://github.com/iamprakash13/locate) [![GitHub forks](https://img.shields.io/github/forks/iamprakash13/locate.svg?style=social&label=Fork)](https://github.com/iamprakash13/locate/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iamprakash13/locate.svg?style=social&label=Watch)](https://github.com/iamprakash13/locate) [![GitHub followers](https://img.shields.io/github/followers/iamprakash13.svg?style=social&label=Follow)](https://github.com/iamprakash13/locate)
+[![GitHub stars](https://img.shields.io/github/stars/iamprakash13/locate.svg?style=social&label=Star)](https://github.com/iamprakash13/locate) [![GitHub forks](https://img.shields.io/github/forks/iamprakash13/locate.svg?style=social&label=Fork)](https://github.com/iamprakash13/locate/fork) [![GitHub followers](https://img.shields.io/github/followers/iamprakash13.svg?style=social&label=Follow)](https://github.com/iamprakash13/locate)
 
 ## Documentation
 
