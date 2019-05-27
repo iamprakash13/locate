@@ -29,7 +29,7 @@ Flutter Create is a contest that challenges you to build something interesting, 
 
 ## Certificate
 
-<img src="screenshots/1.jpg" height="600em" />
+<img src="screenshots/cert.jpg" height="600em" width="600em" />
 
 ## License
 Prakash A – [@iamprakash13](https://github.com/iamprakash13) - [ptan022@gmail.com](ptan022@gmail.com)
