@@ -1,4 +1,4 @@
-# locate
+# Locate
 
 Sends continuous location coordinates to call log numbers made specially for Women Safety
 
@@ -16,7 +16,7 @@ with single tap, messages are sent continously even when app runs in background.
 
 ## Flutter Create
 
-Flutter Create is a contest that challenges you to build something interesting, inspiring, and beautiful with Flutter using 5KB or less of Dart code.Entries will be judged by a panel of Flutter experts against the following four criteria:
+[Flutter Create](https://flutter.dev/create) is a contest that challenges you to build something interesting, inspiring, and beautiful with Flutter using 5KB or less of Dart code.Entries will be judged by a panel of Flutter experts against the following four criteria:
 * Visual beauty
 * Code quality
 * Novelty of idea
@@ -55,3 +55,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/iamprakash13/locate.svg?style=social&label=Star)](https://github.com/iamprakash13/locate) [![GitHub forks](https://img.shields.io/github/forks/iamprakash13/locate.svg?style=social&label=Fork)](https://github.com/iamprakash13/locate/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iamprakash13/locate.svg?style=social&label=Watch)](https://github.com/iamprakash13/locate) [![GitHub followers](https://img.shields.io/github/followers/iamprakash13.svg?style=social&label=Follow)](https://github.com/iamprakash13/locate)
+
+## Documentation
+
+For help getting started with Flutter, view the online
+[documentation](http://flutter.io/).
+
+For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
