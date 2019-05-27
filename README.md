@@ -17,10 +17,10 @@ with single tap, messages are sent continously even when app runs in background.
 ## Flutter Create
 
 Flutter Create is a contest that challenges you to build something interesting, inspiring, and beautiful with Flutter using 5KB or less of Dart code.Entries will be judged by a panel of Flutter experts against the following four criteria:
-Visual beauty
-Code quality
-Novelty of idea
-Overall execution 
+*Visual beauty
+*Code quality
+*Novelty of idea
+*Overall execution 
 
 ## Screenshots
 
