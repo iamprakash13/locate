@@ -56,6 +56,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+***
 ### Show some :heart: and star the repo to support the project
 
 [![GitHub stars](https://img.shields.io/github/stars/iamprakash13/locate.svg?style=social&label=Star)](https://github.com/iamprakash13/locate) [![GitHub forks](https://img.shields.io/github/forks/iamprakash13/locate.svg?style=social&label=Fork)](https://github.com/iamprakash13/locate/fork) [![GitHub followers](https://img.shields.io/github/followers/iamprakash13.svg?style=social&label=Follow)](https://github.com/iamprakash13/locate)
