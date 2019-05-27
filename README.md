@@ -24,11 +24,12 @@ Overall execution
 
 ## Screenshots
 
-![alt text](screenshots/1.jpg "Description goes here"){:height="50%" width="50%"} ![alt text](screenshots/2.jpg "Description goes here"){:height="50%" width="50%"}
+<img src="screenshots/1.jpg" height="300em" /> <img src="screenshots/2.jpg" height="300em" />
+
 
 ## Certificate
 
-![alt text](screenshots/cert.jpg "Description goes here"){:height="50%" width="50%"}
+![alt text](screenshots/cert.jpg "Description goes here")
 
 ## License
 Prakash A – [@iamprakash13](https://github.com/iamprakash13) - [ptan022@gmail.com](ptan022@gmail.com)
